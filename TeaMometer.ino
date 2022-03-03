@@ -47,7 +47,7 @@ void loop(void)
  digitalWrite(green, LOW);
  digitalWrite(red, LOW); 
  
- if (temp>0 and temp<60){
+ if (temp>0 and temp<55){
   digitalWrite(blue, HIGH);
   digitalWrite(green, LOW);
   digitalWrite(red, LOW);
