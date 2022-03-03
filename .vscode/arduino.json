@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:micro",
+    "port": "COM6",
+    "programmer": "arduino:avrispmkii",
+    "sketch": "TeaMometer.ino"
+}
